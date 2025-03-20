@@ -20,4 +20,4 @@ jobs:
           sh appimage.sh
       - uses: ncipollo/release-action@v1
         with:
-          artifacts: "feelnc.AppImage"
+          artifacts: "sortmerna.AppImage"
