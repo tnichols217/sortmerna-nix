@@ -1,0 +1,7 @@
+result
+result-dev
+result*
+*.AppImage
+*-arx
+.direnv
+out
